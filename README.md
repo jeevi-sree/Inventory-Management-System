@@ -70,6 +70,8 @@ The dataset contains **990 inventory records** and **16 columns**, including:
 
 ## Dashboard
 
+![Inventory Management Dashboard](Inventory_Management_Dashboard.png)
+
 The Power BI dashboard provides insights into:
 
 - Total Stock Quantity
